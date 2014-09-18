@@ -1,4 +1,4 @@
 SimpleBTree
 ===========
 
-A very simple realization of B-Tree with the basic functionality.
+A very simple implementation of B-Tree with the basic functionality.
